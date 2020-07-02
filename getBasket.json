@@ -5,30 +5,35 @@
         {
             "id_product": 1,
             "product_name": "HTML5 & CSS3",
+            "img": "http://placehold.it/100x80",
             "price": 100,
             "quantity": 1
         },
         {
             "id_product": 2,
             "product_name": "JavaScript base",
+            "img": "http://placehold.it/100x80",
             "price": 120,
             "quantity": 1
         },
         {
             "id_product": 3,
             "product_name": "JavaScript advanced",
+            "img": "http://placehold.it/100x80",
             "price": 130,
             "quantity": 1
         },
         {
             "id_product": 4,
             "product_name": "PHP",
+            "img": "http://placehold.it/100x80",
             "price": 50,
             "quantity": 1
         },
         {
             "id_product": 5,
             "product_name": "React",
+            "img": "http://placehold.it/100x80",
             "price": 150,
             "quantity": 1
         }
